@@ -16,5 +16,7 @@ let state
 //undefined
 //symbol => uniqe
 
+//object
+
 console.log(typeof null) // o/p => object
 console.log(typeof undefined) //  o/p => undefined
